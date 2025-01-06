@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Praveen K Singh"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Praveen K Singh"
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Gorakhpur, Uttar Pradesh, India"
+  employer         : "WRI India"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "praveenglaciology@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
