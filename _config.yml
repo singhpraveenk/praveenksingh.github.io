@@ -21,7 +21,7 @@ repository               : "singhpraveenk/singhpraveenk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Praveen K Singh"
   pronouns         : "he/his"  
   bio              : "Researcher (Air pollution and climate in the Hindu Kush Himalayan region)"
