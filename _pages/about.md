@@ -8,6 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+Presently, I am working at WRI India closely with urban local bodies (ULB) on the framing and implementation of sectoral air pollution strategies to curb air pollution inside the urban area.
+I have done my Ph.D. from the [Centre of Excellence in Disaster Mitigation & Management](https://iitr.ac.in/Centres/Centre%20of%20Excellence%20in%20Disaster%20Mitigation%20and%20Management/Home.html) (CoEDMM) at the Indian Institute of Technology Roorkee (IITR), India. My research centers on questions related to the Himalayan Cryosphere, Carbonous Aerosols, and Climate Change. I often use radiative transfer, radiation balance, and hydrological models in my research.
+
+​Education:
+
+Ph.D. (2025), Indian Institute of Technology Roorkee, India​
+
+M.Sc. (2016), Central University of Rajasthan, India
+
+​​B.Tech. (2011), Gautam Buddh Technical University, India
+
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
