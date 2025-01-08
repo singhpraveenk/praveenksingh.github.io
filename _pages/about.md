@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Presently, I am working at WRI India closely with urban local bodies (ULB) on the framing and implementation of sectoral air pollution strategies to curb air pollution inside the urban area.
-I have done my Ph.D. from the [Centre of Excellence in Disaster Mitigation & Management](https://iitr.ac.in/Centres/Centre%20of%20Excellence%20in%20Disaster%20Mitigation%20and%20Management/Home.html) (CoEDMM) at the Indian Institute of Technology Roorkee (IITR), India. My research centers on questions related to the Himalayan Cryosphere, Carbonous Aerosols, and Climate Change. I often use radiative transfer, radiation balance, and hydrological models in my research.
+I have done my Ph.D. from the <a href=https://iitr.ac.in/Centres/Centre%20of%20Excellence%20in%20Disaster%20Mitigation%20and%20Management/Home.html" target="_blank">Centre of Excellence in Disaster Mitigation & Management </a>(CoEDMM) at the Indian Institute of Technology Roorkee (IITR), India. My research centers on questions related to the Himalayan Cryosphere, Carbonous Aerosols, and Climate Change. I often use radiative transfer, radiation balance, and hydrological models in my research.
 
 ​Education:
 
