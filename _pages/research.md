@@ -5,4 +5,4 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="research.png">
+<img src="/images/research.png">
