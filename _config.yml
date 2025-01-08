@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Praveen K Singh"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "Researcher (Air pollution and climate in the Hindu Kush Himalayan region)"
   location         : "Gorakhpur, Uttar Pradesh, India"
   employer         : "WRI India"
