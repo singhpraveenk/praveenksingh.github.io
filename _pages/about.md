@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Presently, I am working at <a herf="https://wri-india.org/" target="_blank">WRI India</a> closely with urban local bodies (ULB) on the framing and implementation of sectoral air pollution strategies to curb air pollution inside the urban area.
+Presently, I am working at <a href="https://wri-india.org/" target="_blank">WRI India</a> closely with urban local bodies (ULB) on the framing and implementation of sectoral air pollution strategies to curb air pollution inside the urban area.
 
 I have done my Ph.D. from the <a href="https://iitr.ac.in/Centres/Centre%20of%20Excellence%20in%20Disaster%20Mitigation%20and%20Management/Home.html" target="_blank">Centre of Excellence in Disaster Mitigation & Management</a> (CoEDMM) at the <a href="https://iitr.ac.in/" target="_blank">Indian Institute of Technology Roorkee</a> (IITR), India. 
 
