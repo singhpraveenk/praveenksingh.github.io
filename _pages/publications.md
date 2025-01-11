@@ -10,6 +10,10 @@ author_profile: true
  <h3 id="Edu">Books, Reports, & Chapters</h3>
  <hr style="border-color: darkgrey; color: darkgrey; background-color: darkgrey:">
 
+
+ <h3 id="Edu">Refereed Journal Articles</h3>
+ <hr style="border-color: darkgrey; color: darkgrey; background-color: darkgrey:">
+
  <ul>
   <small> <b><center>2023</b></center>
    
