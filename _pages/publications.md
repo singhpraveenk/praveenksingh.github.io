@@ -10,7 +10,7 @@ author_profile: true
 <h4>Books, Reports, & Chapters</h4>
 
 
-<h3>Refereed Journal Articles</h3>
+<h4>Refereed Journal Articles</h4>
 
 <ul><left><b>2023
 
