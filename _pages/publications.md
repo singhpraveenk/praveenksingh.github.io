@@ -7,11 +7,11 @@ author_profile: true
 
  <div class="wordwrap">The complete list of articles are availbale on my <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a> profile.</div>
 
- <h3 id="Edu">Books, Reports, & Chapters</h3>
+ <h3>Books, Reports, & Chapters</h3>
  <hr style="border-color: darkgrey; color: darkgrey; background-color: darkgrey:">
 
 
- <h3 id="Edu">Refereed Journal Articles</h3>
+ <h3>Refereed Journal Articles</h3>
  <hr style="border-color: darkgrey; color: darkgrey; background-color: darkgrey:">
 
 <ul><left><b>2023</ul>
