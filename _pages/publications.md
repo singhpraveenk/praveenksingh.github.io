@@ -17,7 +17,7 @@ author_profile: true
 
 <li>Saikia, A., Pathak, B., <b>Singh, P. K.</b>, Bhuyan, P. K., & Adhikary, B. (2023). Decadal Changes in Atmospheric Methane Emissions in the Eastern Himalayan Region: Source Apportionment and Impact Assessment. International Journal of Environmental Research, 17(1), 10. DOI: <a href="http://doi.org/10.1007/s41742-022-00501-x" target="_blank">10.1007/s41742-022-00501-x</a>.</li>
 
-<li><b>Singh, P. K.</b>, Adhikary, B., Chen, X., Kang, S., Poudel, S. P., Tashi, T., Goswami, A., & Puppala, S. P. (2023). Variability of ambient black carbon concentration in the Central Himalaya and its assessment over the Hindu Kush Himalayan region. Science of The Total Environment, 858(May 2022), 160137. DOI: 10.1016/j.scitotenv.2022.160137</li>
+<li><b>Singh, P. K.</b>, Adhikary, B., Chen, X., Kang, S., Poudel, S. P., Tashi, T., Goswami, A., & Puppala, S. P. (2023). Variability of ambient black carbon concentration in the Central Himalaya and its assessment over the Hindu Kush Himalayan region. Science of The Total Environment, 858(May 2022), 160137. DOI: <a href="https://doi.org/10.1016/j.scitotenv.2022.160137" target="_blank">10.1016/j.scitotenv.2022.160137</a>.</li>
 </ul>
  
 ​2022
