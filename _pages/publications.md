@@ -16,5 +16,4 @@ author_profile: true
 
 <ul><left><b>2023</ul>
 
-   
-Sherpa, T. C., Matthews, T., Perry, L. B., Thapa, A., Singh, P. K., Khadka, A., Koch, I., Pelto, M., Panday, P., Aryal, D., Shrestha, D., Kang, S., & Mayewski, P. A. (2023). Insights from the first winter weather observations near Mount Everest’s summit. Weather. DOI: 10.1002/wea.4374
+<li> Sherpa, T. C., Matthews, T., Perry, L. B., Thapa, A., Singh, P. K., Khadka, A., Koch, I., Pelto, M., Panday, P., Aryal, D., Shrestha, D., Kang, S., & Mayewski, P. A. (2023). Insights from the first winter weather observations near Mount Everest’s summit. Weather. DOI: 10.1002/wea.4374
