@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="wordwrap">The complete list of articles are availbale on my <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a> profile.</div>
 
-<h2>Books, Reports, & Chapters</h2>
+<h3>Books, Reports, & Chapters</h3>
 
 
 Refereed Journal Articles
