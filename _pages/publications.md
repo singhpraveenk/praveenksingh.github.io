@@ -10,7 +10,9 @@ author_profile: true
  <h3 id="Edu">Books, Reports, & Chapters</h3>
  <hr style="border-color: darkgrey; color: darkgrey; background-color: darkgrey:">
 
- 2023
+ <ul>
+  <small> <b><center>2023</b></center>
+   
 Sherpa, T. C., Matthews, T., Perry, L. B., Thapa, A., Singh, P. K., Khadka, A., Koch, I., Pelto, M., Panday, P., Aryal, D., Shrestha, D., Kang, S., & Mayewski, P. A. (2023). Insights from the first winter weather observations near Mount Everest’s summit. Weather. DOI: 10.1002/wea.4374
 
 ​
