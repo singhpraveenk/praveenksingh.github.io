@@ -10,15 +10,15 @@ author_profile: true
 <h3>Books, Reports, & Chapters</h3>
 
 <h3>Refereed Journal Articles</h3>
-
+<small>
 2023
-<ul><small>
+<ul>
 <li>Sherpa, T. C., Matthews, T., Perry, L. B., Thapa, A., <b>Singh, P. K.</b>, Khadka, A., Koch, I., Pelto, M., Panday, P., Aryal, D., Shrestha, D., Kang, S., & Mayewski, P. A. (2023). Insights from the first winter weather observations near Mount Everest’s summit. Weather. DOI: <a href="https://doi.org/10.1002/wea.4374" target="_blank">10.1002/wea.4374</a>.</li>
 
 <li>Saikia, A., Pathak, B., <b>Singh, P. K.</b>, Bhuyan, P. K., & Adhikary, B. (2023). Decadal Changes in Atmospheric Methane Emissions in the Eastern Himalayan Region: Source Apportionment and Impact Assessment. International Journal of Environmental Research, 17(1), 10. DOI: <a href="http://doi.org/10.1007/s41742-022-00501-x" target="_blank">10.1007/s41742-022-00501-x</a>.</li>
 
 <li><b>Singh, P. K.</b>, Adhikary, B., Chen, X., Kang, S., Poudel, S. P., Tashi, T., Goswami, A., & Puppala, S. P. (2023). Variability of ambient black carbon concentration in the Central Himalaya and its assessment over the Hindu Kush Himalayan region. Science of The Total Environment, 858, 160137. DOI: <a href="https://doi.org/10.1016/j.scitotenv.2022.160137" target="_blank">10.1016/j.scitotenv.2022.160137</a>.</li>
-</small></ul>
+</ul>
  
 ​2022
 <ul>
@@ -40,5 +40,6 @@ author_profile: true
 <ul>
 <li><b>Singh, P. K.</b>, Kumar, A., & Banerjee, K. (2018). Methane Emission and Its Variability in Different Land-uses of Semi-arid Region, Rajasthan. Journal of Climate Change, 4(2), 67–75.​ DOI: <a href="https://content.iospress.com/articles/journal-of-climate-change/jcc180014" target="_blank">10.3233/JCC-1800014</a>.</li>
 </ul>
+</small>
 
 ​
