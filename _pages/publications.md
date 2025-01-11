@@ -15,9 +15,9 @@ author_profile: true
  <hr style="border-color: darkgrey; color: darkgrey; background-color: darkgrey:">
 
  <ul>
-  <small><b><center>2023</b></center>
+ <small><b><left>2023</b></left>
    
-<li> <p><b>Sherpa, T. C., Matthews, T., Perry, L. B., Thapa, A., Singh, P. K., Khadka, A., Koch, I., Pelto, M., Panday, P., Aryal, D., Shrestha, D., Kang, S., & Mayewski, P. A. (2023). Insights from the first winter weather observations near Mount Everest’s summit. Weather. DOI: 10.1002/wea.4374</a> |</p></li> 
+<li><p>Sherpa, T. C., Matthews, T., Perry, L. B., Thapa, A., Singh, P. K., Khadka, A., Koch, I., Pelto, M., Panday, P., Aryal, D., Shrestha, D., Kang, S., & Mayewski, P. A. (2023). Insights from the first winter weather observations near Mount Everest’s summit. Weather. DOI: 10.1002/wea.4374</p></li>
 
 ​
 
@@ -50,4 +50,7 @@ Gul, C., Mahapatra, P. S., Kang, S., Singh, P. K., Wu, X., He, C., Kumar, R., Ra
  
 ​2018
 Singh, P. K., Kumar, A., & Banerjee, K. (2018). Methane Emission and Its Variability in Different Land-uses of Semi-arid Region, Rajasthan. Journal of Climate Change, 4(2), 67–75.​ DOI: 10.3233/JCC-1800014
+
+</small>
+</ul>
 
