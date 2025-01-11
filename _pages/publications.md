@@ -10,8 +10,9 @@ author_profile: true
 <h3>Books, Reports, & Chapters</h3>
 
 <h3>Refereed Journal Articles</h3>
-<small>
+
 2023
+<small>
 <ul>
 <li>Sherpa, T. C., Matthews, T., Perry, L. B., Thapa, A., <b>Singh, P. K.</b>, Khadka, A., Koch, I., Pelto, M., Panday, P., Aryal, D., Shrestha, D., Kang, S., & Mayewski, P. A. (2023). Insights from the first winter weather observations near Mount Everest’s summit. Weather. DOI: <a href="https://doi.org/10.1002/wea.4374" target="_blank">10.1002/wea.4374</a>.</li>
 
@@ -19,8 +20,10 @@ author_profile: true
 
 <li><b>Singh, P. K.</b>, Adhikary, B., Chen, X., Kang, S., Poudel, S. P., Tashi, T., Goswami, A., & Puppala, S. P. (2023). Variability of ambient black carbon concentration in the Central Himalaya and its assessment over the Hindu Kush Himalayan region. Science of The Total Environment, 858, 160137. DOI: <a href="https://doi.org/10.1016/j.scitotenv.2022.160137" target="_blank">10.1016/j.scitotenv.2022.160137</a>.</li>
 </ul>
+</small>
  
 ​2022
+<small>
 <ul>
 <li>Upadhyay, A., Mahapatra, P. S., <b>Singh, P. K.</b>, Dahal, S., Pokhrel, S., Bhujel, A., Joshi, I. B., Paudel, S. P., Puppala, S. P., & Adhikary, B. (2022). Learnings from COVID-19 Forced Lockdown on Regional Air Quality and Mitigation Potential for South Asia. Aerosol and Air Quality Research, 22, 210376. DOI: <a href="https://doi.org/10.4209/aaqr.210376" target="_blank">10.4209/aaqr.210376</a>.</li> 
 
@@ -28,18 +31,23 @@ author_profile: true
 
 <li>Potocki, M., Mayewski, P. A., Matthews, T., Perry, L. B., Schwikowski, M., Tait, A. M., Korotkikh, E., Clifford, H., Kang, S., Sherpa, T. C., <b>Singh, P. K.</b>, Koch, I., & Birkel, S. (2022). Mt. Everest’s highest glacier is a sentinel for accelerating ice loss. Npj Climate and Atmospheric Science, 5(1), 7. DOI: <a href="https://www.nature.com/articles/s41612-022-00230-0" target="_blank">10.1038/s41612-022-00230-0</a>.</li>
 </ul>
+</small>
 ​
 ​2021
+<small>
 <ul>
 <li>Clifford, H. M., Potocki, M., Koch, I., Sherpa, T., Handley, M., Korotkikh, E., Introne, D., Kaspari, S., Miner, K., Matthews, T., Perry, B., Guy, H., Gajurel, A., <b>Singh, P. K.</b>, Elvin, S., Elmore, A. C., Tait, A., & Mayewski, P. A. (2021). A case study using 2019 pre-monsoon snow and stream chemistry in the Khumbu region, Nepal. Science of the Total Environment, 789, 148006. DOI: <a href="https://linkinghub.elsevier.com/retrieve/pii/S0048969721030771" target="_blank">10.1016/j.scitotenv.2021.148006</a>.</li>​​
 
 <li>Gul, C., Mahapatra, P. S., Kang, S., <b>Singh, P. K.</b>, Wu, X., He, C., Kumar, R., Rai, M., Xu, Y., & Puppala, S. P. (2021). Black carbon concentration in the central Himalayas: impact on glacier melt and potential source contribution. Environmental Pollution, 116544. DOI: <a href="https://linkinghub.elsevier.com/retrieve/pii/S0269749121001226" target="_blank">10.1016/j.envpol.2021.116544</a>.</li>
 </ul>
+</small>
  
 ​2018
+<small>
 <ul>
 <li><b>Singh, P. K.</b>, Kumar, A., & Banerjee, K. (2018). Methane Emission and Its Variability in Different Land-uses of Semi-arid Region, Rajasthan. Journal of Climate Change, 4(2), 67–75.​ DOI: <a href="https://content.iospress.com/articles/journal-of-climate-change/jcc180014" target="_blank">10.3233/JCC-1800014</a>.</li>
 </ul>
 </small>
+
 
 ​
